@@ -48,7 +48,7 @@ When placed within `.p-strip--dark`, icon colors are reverted to ensure legibili
     View example of the icon set (dark)
 </a>
 
-## Social Icons
+## Social icons
 
 Class name  |
  ------------- |
@@ -66,7 +66,7 @@ Class name  |
     View example of the icon set (Social)
 </a>
 
-## Share Icons
+## Share icons
 
 If you wish to add share icons for Twitter, Facebook, Google+ or LinkedIn, we recommend using these specific buttons;
 
